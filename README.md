@@ -34,10 +34,14 @@
 	</span>
 </div>
 <div>
-	<span style="font-family:Helvetica,Tahoma,Arial,sans-serif"><span style="line-height: 25.1875px;"><span style="font-size:24px;color:#ff0000;"><strong>使用方法：</strong></span><span style="font-size: 14px;">下载</span><span style="font-size: 14px; font-family: Helvetica, Tahoma, Arial, sans-serif; line-height: 25.1875px;">SuperExplorer的jar包，复制到eclipse安装目录的plugins目录下，重启eclipse后会在工具栏中见到图标</span></span></span>
+	<span style="font-family:Helvetica,Tahoma,Arial,sans-serif"><span style="line-height:25.1875px"><span style="font-size:24px; color:#ff0000"><strong>使用方法：</strong></span><span style="font-size:14px">下载</span><span style="font-size:14px; font-family:Helvetica,Tahoma,Arial,sans-serif; line-height:25.1875px">SuperExplorer的jar包，复制到eclipse安装目录的plugins目录下，重启eclipse后会在工具栏中见到图标</span></span></span>
 </div>
 <div>
-	<span style="font-family: Helvetica, Tahoma, Arial, sans-serif; line-height: 25.1875px;"><span style="white-space: pre;"></span><span style="color: rgb(255, 0, 0);"><em><span style="font-size:24px;">SuperExplorer插件jar包下载地址</span></em></span><span style="font-size: 14px;">：</span><a target="_blank" href="https://pan.baidu.com/s/1c1MtNBa" style="font-size: 14px;">点击下载</a><span style="font-size: 14px;">&nbsp;</span></span>
+	<span style="font-family:Helvetica,Tahoma,Arial,sans-serif; line-height:25.1875px"><span style="color:rgb(255,0,0)"><em><span style="font-size:24px"><br />
+	</span></em></span></span>
+</div>
+<div>
+	<span style="font-family:Helvetica,Tahoma,Arial,sans-serif; line-height:25.1875px"><span style="white-space:pre"></span><span style="color:rgb(255,0,0)"><em><span style="font-size:24px">SuperExplorer插件jar包下载地址</span></em></span><span style="font-size:14px">：</span><a target="_blank" href="https://pan.baidu.com/s/1c1MtNBa" style="font-size:14px">点击下载</a><span style="font-size:14px">&nbsp;</span></span>
 </div>
 <div>
 	<span style="font-family:Helvetica,Tahoma,Arial,sans-serif; font-size:14px; line-height:25.1875px">如果无法下载，复制地址在浏览器中打开：链接:https://pan.baidu.com/s/1c1MtNBa</span>
