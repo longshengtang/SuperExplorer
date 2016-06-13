@@ -37,6 +37,9 @@
 	</span>
 </div>
 <div>
+	<span style="font-family:Helvetica, Tahoma, Arial, sans-serif;"><span style="font-size: 14px; line-height: 25.1875px;">下载<span style="font-family: Helvetica, Tahoma, Arial, sans-serif; font-size: 14px; line-height: 25.1875px;">SuperExplorer的jar包，复制到eclipse安装目录的plugins目录下，重启eclipse后会在工具栏中见到图标</span></span></span>
+</div>
+<div>
 	<span style="font-family:Helvetica,Tahoma,Arial,sans-serif; font-size:14px; line-height:25.1875px"><span style="white-space:pre"></span>SuperExplorer插件jar包下载地址：<a target="_blank" href="https://pan.baidu.com/s/1c1MtNBa">点击下载</a>&nbsp;</span>
 </div>
 <div>
