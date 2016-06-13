@@ -12,5 +12,5 @@
 	<span style="font-family:Helvetica,Tahoma,Arial,sans-serif; font-size:14px; line-height:25.1875px"><span style="white-space:pre"></span>另外，附上插件无法加载的解决办法：<a target="_blank" href="http://liyixing1.iteye.com/blog/1584917">点击打开</a>。</span>
 </div>
 <div>
-	<span style="font-family:Helvetica,Tahoma,Arial,sans-serif; font-size:14px; line-height:25.1875px"><span style="white-space:pre"></span>SuperExplorer插件下载地址：<a target="_blank" href="">点击下载</a></span>
+	<span style="font-family:Helvetica,Tahoma,Arial,sans-serif; font-size:14px; line-height:25.1875px">
 </div>
