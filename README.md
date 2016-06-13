@@ -19,7 +19,7 @@
 	</span>
 </div>
 <div>
-	<span style="font-family:Helvetica,Tahoma,Arial,sans-serif; font-size:14px; line-height:25.1875px"><span style="white-space:pre"></span>下图红线框内都是可以定位资源：</span>
+	<span style="font-family: Helvetica, Tahoma, Arial, sans-serif; line-height: 25.1875px;"><strong><span style="font-size:32px;color:#ff0000;"><span style="white-space: pre;"></span>下图红线框内都是可以定位资源：</span></strong></span>
 </div>
 <div>
 	<span style="font-family:Helvetica,Tahoma,Arial,sans-serif; font-size:14px; line-height:25.1875px"><img src="http://img.blog.csdn.net/20160613115619190?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center" alt="" /><br />
@@ -37,7 +37,10 @@
 	</span>
 </div>
 <div>
-	<span style="font-family:Helvetica,Tahoma,Arial,sans-serif; font-size:14px; line-height:25.1875px"><span style="white-space:pre"></span>SuperExplorer插件jar包下载地址：<a target="_blank" href="https://pan.baidu.com/s/1c1MtNBa">点击下载</a>&nbsp;如果无法下载，复制地址在浏览器中打开：链接:https://pan.baidu.com/s/1c1MtNBa</span>
+	<span style="font-family:Helvetica,Tahoma,Arial,sans-serif; font-size:14px; line-height:25.1875px"><span style="white-space:pre"></span>SuperExplorer插件jar包下载地址：<a target="_blank" href="https://pan.baidu.com/s/1c1MtNBa">点击下载</a>&nbsp;</span>
+</div>
+<div>
+	<span style="font-family:Helvetica,Tahoma,Arial,sans-serif; font-size:14px; line-height:25.1875px">如果无法下载，复制地址在浏览器中打开：链接:https://pan.baidu.com/s/1c1MtNBa</span>
 </div>
 <div>
 	<span style="font-family:Helvetica,Tahoma,Arial,sans-serif"><span style="font-size:14px; line-height:25.1875px"><br />
