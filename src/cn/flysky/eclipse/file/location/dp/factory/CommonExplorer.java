@@ -89,7 +89,7 @@ public class CommonExplorer implements IExplorer {
 				file.setResource((IResource) editorInput
 						.getAdapter(IResource.class));
 			}
-			if (file.isOpenable()) {
+			if (!file.isOpenable()) {
 				// 通过反射获取私有的file属性字段——从而获取该jar包真实路径
 				try {
 					// 反射的方式是由IPackageFragmentRoot的exists()方法想到的，因为exists里调用了File.exists()
