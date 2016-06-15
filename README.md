@@ -41,15 +41,15 @@
 	</span></em></span></span>
 </div>
 <div>
-	<span style="font-family:Helvetica,Tahoma,Arial,sans-serif; line-height:25.1875px"><span style="white-space:pre"></span><span style="color:rgb(255,0,0)"><em><span style="font-size:24px">SuperExplorer插件jar包下载地址</span></em></span><span style="font-size:14px">：</span><a target="_blank" href="https://pan.baidu.com/s/1c1MtNBa" style="font-size:14px">点击下载</a><span style="font-size:14px">&nbsp;</span></span>
+	<span style="font-family:Helvetica,Tahoma,Arial,sans-serif; line-height:25.1875px"><span style="white-space:pre"></span><span style="color:rgb(255,0,0)"><em><span style="font-size:24px">SuperExplorer插件jar包下载地址</span></em></span><span style="font-size:14px">： 为方便大家，</span></span><span style="font-family:Helvetica,Tahoma,Arial,sans-serif; font-size:14px; line-height:25.1875px">如果无法下载，复制地址在浏览器中打开，有两个地方可以下载</span>
 </div>
 <div>
-	<span style="font-family:Helvetica,Tahoma,Arial,sans-serif; font-size:14px; line-height:25.1875px">如果无法下载，复制地址在浏览器中打开：链接:https://pan.baidu.com/s/1c1MtNBa</span>
+	<span style="font-family:Helvetica,Tahoma,Arial,sans-serif"><span style="font-size:14px; line-height:25.1875px">&nbsp; &nbsp; &nbsp; &nbsp;csdn下载：<a target="_blank" href="http://download.csdn.net/detail/a459787545/9549810">http://download.csdn.net/detail/a459787545/9549810</a></span></span>
+</div>
+<div>
+	<span style="font-family:Helvetica,Tahoma,Arial,sans-serif"><span style="font-size:14px; line-height:25.1875px">百度云盘下载：<a target="_blank" href="https://pan.baidu.com/s/1i5rrQ9v">https://pan.baidu.com/s/1i5rrQ9v</a></span></span>
 </div>
 <div>
 	<span style="font-family:Helvetica,Tahoma,Arial,sans-serif"><span style="font-size:14px; line-height:25.1875px"><br />
 	</span></span>
-</div>
-<div>
-	<span style="font-family:Helvetica,Tahoma,Arial,sans-serif"><span style="line-height:25.1875px"><span style="font-size:24px; color:#ff0000"><strong>源代码地址</strong></span><span style="font-size:14px">(可以使用svn或者git工具Clone)：https://github.com/a459787545/SuperExplorer.git</span></span></span>
 </div>
